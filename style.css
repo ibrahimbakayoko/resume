@@ -25,7 +25,12 @@ a {
 }
 
 .entete-item2 {
-  flex: 30%;
+/*   flex: 30%; */
+/* padding-bottom: 2px; */
+flex: 152px;
+width: 195px;
+height: 195px;
+padding: 10px;  
 }
 
 .identite {
