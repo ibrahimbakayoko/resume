@@ -15,6 +15,7 @@ a {
 /* style header */
 .contenaire-header {
   display: flex;
+  flex-wrap: wrap;
   background-color: #009999ad;
   color: white;
 }
