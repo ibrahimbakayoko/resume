@@ -58,7 +58,7 @@ padding: 10px;
 }
 
 .photo {
-  border: solid;
+/*   border: solid; */
   border-radius: 50%;
   height: 100%;
 }
