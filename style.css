@@ -63,6 +63,14 @@ padding: 10px;
   height: 100%;
 }
 
+.photo img {
+  padding: 4px;
+  height: 250px;
+  border-radius: 84%;
+  text-align: center;
+  border: solid 1px #fff;
+}
+
 .contenaire-separateur {
   height: 2%;
   background-color: #003366;
